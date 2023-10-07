@@ -1,0 +1,500 @@
+.card1bg {
+  position: absolute;
+  height: 50.6%;
+  width: 100%;
+  top: 49.4%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-881xl);
+  background: linear-gradient(
+    177.23deg,
+    rgba(66, 62, 224, 0.4),
+    rgba(129, 45, 226, 0.4)
+  );
+  filter: blur(300px);
+}
+.carbonfinanceIcon,
+.frame1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 881px;
+  height: 1741px;
+  overflow: hidden;
+}
+.carbonfinanceIcon {
+  height: 100%;
+  width: 10.58%;
+  right: 89.42%;
+  bottom: 0;
+  max-width: 100%;
+  max-height: 100%;
+}
+.rise {
+  font-weight: 500;
+}
+.risefinance {
+  position: absolute;
+  height: 80%;
+  width: 86.24%;
+  top: 15%;
+  left: 13.76%;
+  letter-spacing: 0.5px;
+  display: inline-block;
+}
+.frame,
+.frame2,
+.logo {
+  position: absolute;
+  top: 221px;
+  left: 0;
+  width: 378px;
+  height: 40px;
+}
+.frame,
+.frame2 {
+  top: 0;
+  left: 530px;
+  height: 261px;
+  overflow: hidden;
+}
+.frame {
+  top: -191px;
+  left: -440px;
+  width: 908px;
+  height: 1741px;
+}
+.scaleFintech2 {
+  background: linear-gradient(263.24deg, #9130f4, #4646f9);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.scaleFintech1 {
+  font-size: var(--font-size-80xl);
+}
+.span {
+  color: var(--color-white);
+}
+.scaleFintech {
+  margin: 0;
+}
+.safeAndSecure2 {
+  font-size: var(--font-size-71xl);
+}
+.scaleFintechSafeContainer {
+  position: absolute;
+  height: 42.05%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: -4px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  text-align: left;
+  display: inline-block;
+}
+.secureAndHighly,
+.shipYourFintech {
+  font-weight: 500;
+  font-family: var(--font-poppins);
+}
+.secureAndHighly {
+  font-weight: 600;
+}
+.shipYourFintechContainer {
+  position: absolute;
+  height: 26.59%;
+  width: 98.71%;
+  top: 47.95%;
+  left: 1.29%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.04em;
+  line-height: 130%;
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.consultation {
+  position: relative;
+  font-size: var(--font-size-lg);
+  line-height: 100%;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+}
+.button {
+  position: absolute;
+  height: 16.82%;
+  width: 39.42%;
+  top: 83.18%;
+  right: 59.28%;
+  bottom: 0;
+  left: 1.29%;
+  background-color: rgba(18, 17, 57, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xl) var(--padding-48xl);
+  box-sizing: border-box;
+}
+.frame4,
+.leftSection {
+  position: absolute;
+  left: 0;
+}
+.leftSection {
+  top: 509px;
+  width: 695px;
+  height: 440px;
+}
+.frame4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+}
+.frameIcon {
+  position: absolute;
+  top: 191px;
+  left: 210px;
+  width: 1128px;
+  height: 1176px;
+  overflow: hidden;
+}
+.card1bg1 {
+  position: absolute;
+  height: 97.49%;
+  width: 98.55%;
+  top: 2.51%;
+  right: 0;
+  bottom: 0;
+  left: 1.45%;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(177.23deg, #423ee0, #812de2);
+  filter: blur(90px);
+}
+.card1Mask,
+.card1bg2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.card1bg2 {
+  height: 99.97%;
+  width: 100%;
+  right: 0;
+  bottom: 0.03%;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(177.23deg, #9c2cf3, #3a49f9);
+}
+.card1Mask {
+  height: 100%;
+  width: 99.94%;
+  right: 0.06%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.div1 {
+  position: absolute;
+  height: 7.14%;
+  top: 79.4%;
+  letter-spacing: 0.5px;
+  font-weight: 500;
+  display: inline-block;
+}
+.div {
+  width: 13.77%;
+  left: 76.72%;
+  text-align: right;
+}
+.div1 {
+  width: 52.3%;
+  left: 9.51%;
+  opacity: 0.9;
+}
+.mastercardLogoIcon {
+  position: absolute;
+  height: 19.52%;
+  width: 14.28%;
+  top: 13.59%;
+  right: 9.58%;
+  bottom: 66.89%;
+  left: 76.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.currentBalance,
+.div2 {
+  position: absolute;
+  left: 9.51%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div2 {
+  height: 14%;
+  width: 46.07%;
+  top: 28.28%;
+  font-size: var(--font-size-9xl);
+}
+.currentBalance {
+  height: 7.14%;
+  width: 40%;
+  top: 16.28%;
+  opacity: 0.54;
+}
+.card1,
+.card1bg3,
+.cardWithBg {
+  position: absolute;
+  height: 97.53%;
+  width: 98.55%;
+  top: 0;
+  right: 1.45%;
+  bottom: 2.47%;
+  left: 0;
+}
+.card1bg3,
+.cardWithBg {
+  height: 67.99%;
+  width: 80.39%;
+  right: 19.61%;
+  bottom: 32.01%;
+}
+.card1bg3 {
+  height: 91.6%;
+  width: 95.96%;
+  top: 8.4%;
+  right: 0;
+  bottom: 0;
+  left: 4.04%;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(177.23deg, #423ee0, #812de2);
+  filter: blur(90px);
+}
+.bg,
+.card2Mask {
+  position: absolute;
+  left: 0;
+}
+.bg {
+  height: 99.84%;
+  width: 100%;
+  top: 0.14%;
+  right: 0;
+  bottom: 0.02%;
+  border-radius: var(--br-11xl);
+  background: linear-gradient(177.23deg, #9c2cf3, #3a49f9);
+}
+.card2Mask {
+  height: 100%;
+  width: 99.78%;
+  top: 0;
+  right: 0.22%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div3,
+.div4 {
+  position: absolute;
+  line-height: 162.7%;
+  font-weight: 500;
+  display: inline-block;
+}
+.div3 {
+  height: 8.63%;
+  width: 28.04%;
+  top: 76.71%;
+  left: 59.81%;
+  text-align: right;
+}
+.div4 {
+  height: 9.01%;
+  width: 19.16%;
+  top: 54.94%;
+  left: 44.86%;
+  font-size: var(--font-size-smi);
+}
+.card2Child,
+.card2Inner,
+.card2Item,
+.ellipseDiv {
+  position: absolute;
+  height: 2.25%;
+  width: 2.8%;
+  top: 59.82%;
+  right: 64.95%;
+  bottom: 37.93%;
+  left: 32.25%;
+  border-radius: 50%;
+  background-color: var(--color-white);
+}
+.card2Inner,
+.card2Item,
+.ellipseDiv {
+  right: 78.5%;
+  left: 18.7%;
+}
+.card2Inner,
+.ellipseDiv {
+  right: 71.96%;
+  left: 25.24%;
+}
+.ellipseDiv {
+  right: 85.51%;
+  left: 11.69%;
+}
+.groupIcon {
+  position: absolute;
+  height: 11.97%;
+  width: 22.71%;
+  top: 74.44%;
+  right: 65.59%;
+  bottom: 13.59%;
+  left: 11.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.creditCard {
+  position: absolute;
+  height: 5.63%;
+  width: 47.66%;
+  top: 45.56%;
+  left: 11.69%;
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  display: inline-block;
+  opacity: 0.5;
+}
+.logoIcon {
+  position: absolute;
+  height: 15.11%;
+  width: 30.97%;
+  top: 10.87%;
+  right: 57.34%;
+  bottom: 74.02%;
+  left: 11.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.card2,
+.cardSmWithBg {
+  position: absolute;
+  height: 91.75%;
+  width: 95.96%;
+  top: 0;
+  right: 4.04%;
+  bottom: 8.25%;
+  left: 0;
+}
+.cardSmWithBg {
+  height: 55%;
+  width: 28.96%;
+  top: 29.66%;
+  right: 13.9%;
+  bottom: 15.34%;
+  left: 57.14%;
+  font-size: var(--font-size-2xs);
+}
+.frame5,
+.rightSection {
+  position: absolute;
+  top: 496px;
+  left: 0;
+  width: 770px;
+  height: 528px;
+}
+.frame5 {
+  top: 0;
+  left: 848px;
+  height: 1024px;
+  overflow: hidden;
+}
+.burgerMenuChild,
+.burgerMenuItem {
+  background-color: var(--color-white);
+  height: 3px;
+}
+.burgerMenuChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 44px;
+}
+.burgerMenuItem {
+  top: 7px;
+}
+.burgerMenu,
+.burgerMenuInner,
+.burgerMenuItem {
+  position: absolute;
+  left: 0;
+  width: 44px;
+}
+.burgerMenuInner {
+  top: 14px;
+  background-color: var(--color-white);
+  height: 3px;
+}
+.burgerMenu {
+  top: 234px;
+  height: 17px;
+}
+.card1bg4,
+.frame6 {
+  position: absolute;
+  top: 0;
+}
+.frame6 {
+  left: 1504px;
+  width: 44px;
+  height: 251px;
+  overflow: hidden;
+}
+.card1bg4 {
+  height: 43.28%;
+  width: 28.18%;
+  right: 0;
+  bottom: 56.72%;
+  left: 71.82%;
+  border-radius: var(--br-881xl);
+  background: linear-gradient(
+    177.23deg,
+    rgba(66, 62, 224, 0.4),
+    rgba(129, 45, 226, 0.4)
+  );
+  filter: blur(371px);
+}
+.frame3 {
+  position: absolute;
+  top: -191px;
+  left: 90px;
+  width: 1806px;
+  height: 1176px;
+  overflow: hidden;
+  font-size: var(--font-size-sm);
+}
+.heroSection {
+  position: relative;
+  background-color: #121139;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
